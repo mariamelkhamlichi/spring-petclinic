@@ -179,3 +179,8 @@ For additional details, please refer to the blog post [Hello DCO, Goodbye CLA: S
 ## License
 
 The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+## Parcours DevSecOps
+
+Ce dépôt est utilisé pour apprendre progressivement Git, Maven, Docker,
+l'intégration continue, la sécurité et le déploiement cloud.
